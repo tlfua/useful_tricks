@@ -1,0 +1,8 @@
+# blacklist everything
+*
+
+# DO NOT blacklist any filename with any extension
+!*.*
+
+# DO NOT blacklist any directory
+!*/
